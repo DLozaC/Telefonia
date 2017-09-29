@@ -1,0 +1,19 @@
+<resources>
+
+    <string name="app_name">TelefoniaEstrategy</string>
+    <string name="texto_compania">Compañía</string>
+    <string name="texto_minutos_local">Minutos Llamada Local</string>
+    <string name="texto_minutos_ld">Minutos Llamada Larga Distancia</string>
+    <string name="texto_calcular">Calcular</string>
+    <string name="texto_total">Total</string>
+    <string name="texto_limpiar">Limpiar</string>
+    <string name="texto_mostrar_creditos">Mostrar Creditos</string>
+    <string name="texto_nombre">Nombre: Victor Daniel Loza Cruz</string>
+    <string name="texto_grupo">Grupo: GSI1341</string>
+    <string name="texto_asignatura">Asignatura: Desarrollo de Aplicaciones II</string>
+    <string-array name="opciones">
+        <item >Telcel</item>
+        <item >Unefon</item>
+        <item >MyCompanny</item>
+    </string-array>
+</resources>
